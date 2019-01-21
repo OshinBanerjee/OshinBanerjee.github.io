@@ -32,7 +32,7 @@ body h1,h2,h3,h4,h5,h6{
     margin: 0;
     text-transform: uppercase;
     font-weight: bold;
-     color: orange;
+     color: red;
 }
 .logo h1 a{
 	text-decoration:none;
