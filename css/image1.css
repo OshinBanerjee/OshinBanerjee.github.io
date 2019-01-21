@@ -989,7 +989,7 @@ span.border.two:after {
 	}
 	ul.address li ul.address-text li {
 		display: inline-block;
-		font-size: 150%;
+		font-size: 200%;
 		margin-top: 1em;
 	}
 	ul.address li ul.address-text li:nth-child(1) {
