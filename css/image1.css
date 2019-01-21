@@ -113,14 +113,14 @@ ul.address {
     padding-left: 3em;
 }
 .header-right h1 {
-    font-size: 2.5em;
+    font-size: 3em;
     color: #fff;
     margin: 0.5em 0 0;
     font-weight: bold;
 }
 .header-right h1 {
-    font-size: 1.2em;
-    color: #FFF;
+    font-size: 2.5em;
+    color: yellow;
     background: #00a78e;
     display: inline-block;
     padding: .5em 1.5em;
